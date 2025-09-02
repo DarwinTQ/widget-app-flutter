@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 //esto es una pantalla
 class ButtonsScreen extends StatelessWidget {
   const ButtonsScreen({super.key});
-
+  static const String name = 'buttons_screen';
   @override
   Widget build(BuildContext context) {
     return Scaffold(
