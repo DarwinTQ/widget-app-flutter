@@ -16,13 +16,13 @@ class MenuItems {
 
 const appMenuItems = <MenuItems>[
   MenuItems(
-    title: 'Home',
+    title: 'Buttons',
     subTitle: 'Go to home page',
     icon: Icons.smart_button_outlined,
     link: '/home',
   ),
   MenuItems(
-    title: 'Profile',
+    title: 'Cards',
     subTitle: 'View your profile',
     icon: Icons.credit_card,
     link: '/profile',
